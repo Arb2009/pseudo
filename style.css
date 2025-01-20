@@ -1,0 +1,56 @@
+/*unvisited link*/
+/* a:link {
+    color: red;
+} */
+/*visited link */
+/* a:visited {
+    color: greenyellow;
+} */
+/*mosue hover */
+/* a:hover {
+    color: rgb(212, 0, 255);
+} */
+/*kur e selektojna tekstin*/
+/* a:active {
+    color: blue;
+} */
+
+/* p::first-line{
+    background-color: red;
+} */
+
+/* .desp::before{
+content: 'BEFORE';
+color: red;
+}
+.desp::after{
+    content: 'AFTER';
+    color: green;
+    } */
+     
+    /* .desp::before{
+        content: "";
+        height: 10px;
+        width: 10px;
+        background-color: red;
+        display: inline-block;
+    }
+    .desp::after{
+        content: "";
+        height: 10px;
+        width: 10px;
+        background-color: green;
+        display: inline-block;
+    } */
+    
+    div{
+        height: 200px;
+        width: 200px;
+        
+    }
+
+    img{
+        height: 200px;
+        width: 200px;
+        
+    }
